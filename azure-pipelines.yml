@@ -14,7 +14,7 @@ variables:
   webAppName: 'azureflaskprediction'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  vmImageName: 'Default'
 
   # Environment name
   environmentName: 'azureflaskprediction'

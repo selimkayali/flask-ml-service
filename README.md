@@ -5,7 +5,7 @@ A sample Flask application to showcase the Azure Pipeline.
 Python 3.7
 
 Video link:
-https://youtu.be/tnRMjGAC4Lc
+https://youtu.be/akNrYbYB0AU
 
 Project cloned to Azure Cloud Shell
 ![image](https://github.com/selimkayali/flask-ml-service/assets/37865633/d2b02950-0afe-480a-ab3b-9181d22884e7)

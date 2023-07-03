@@ -14,6 +14,8 @@ Github Actions test and lint steps done
 ![image](https://github.com/selimkayali/flask-ml-service/assets/37865633/f3aef5c6-b5b2-4f04-9823-633b5fe868c3)
 
 
+Locust results:
+<img width="1798" alt="image" src="https://github.com/selimkayali/flask-ml-service/assets/37865633/02de610e-db81-4aa5-bbbb-87709b2c50e7">
 
 
 

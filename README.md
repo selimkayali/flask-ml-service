@@ -2,7 +2,7 @@
 A sample Flask application to showcase the Azure Pipeline.
 
 ## Environment
-Python 3.7
+Python 3.9
 
 Video link:
 https://youtu.be/akNrYbYB0AU

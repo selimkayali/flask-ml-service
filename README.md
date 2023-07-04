@@ -6,7 +6,8 @@ Python 3.9
 
 # Project Plan
 * [Trello Board](https://trello.com/b/JTkogRYL/udacity-ci-cd)
-* [Project Plan](https://github.com/selimkayali/flask-ml-service/files/11952041/Project.Plan.xlsx)
+* [Project Plan.xlsx](https://github.com/selimkayali/flask-ml-service/files/11952050/Project.Plan.xlsx)
+
 
 # Diagram
 

@@ -26,7 +26,7 @@ Then, we connected the GitHub Actions to Azure DevOps Pipelines and switched the
 -
 
 Video link:
-https://youtu.be/akNrYbYB0AU
+[https://youtu.be/akNrYbYB0AU](https://youtu.be/KfACJqGrBwA)
 
 -
 

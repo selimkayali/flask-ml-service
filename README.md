@@ -4,6 +4,11 @@ A sample Flask application to showcase the Azure Pipeline.
 ## Environment
 Python 3.9
 
+Overview
+In this project, we built a CI/CD chain for a given code base and adapted it to our own custom code. We used GitHub Actions to run linting, testing, and installation steps on a Python code that we cloned from a template.
+
+Then, we connected the GitHub Actions to Azure DevOps Pipelines and switched the code to a sklearn model that can forecast house prices.
+
 -
 
 Video link:

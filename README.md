@@ -35,7 +35,7 @@ Run make all command to run commands in Makefile included install, lint and test
 
 -
 
-Project cloned to Azure Cloud Shell
+Project cloned to Azure Cloud Shell and successful prediction
 ![image](https://github.com/selimkayali/flask-ml-service/assets/37865633/d2b02950-0afe-480a-ab3b-9181d22884e7)
 
 -

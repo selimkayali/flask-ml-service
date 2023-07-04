@@ -4,6 +4,10 @@ A sample Flask application to showcase the Azure Pipeline.
 ## Environment
 Python 3.9
 
+# Project Plan
+* [Trello Board](https://trello.com/b/JTkogRYL/udacity-ci-cd)
+
+
 # Diagram
 
 <img width="871" alt="image" src="https://github.com/selimkayali/flask-ml-service/assets/37865633/17ce91c4-41ae-4b39-bd94-065f6f13db41">

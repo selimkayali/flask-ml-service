@@ -4,7 +4,16 @@ A sample Flask application to showcase the Azure Pipeline.
 ## Environment
 Python 3.9
 
-Overview
+# Diagram
+
+<img width="871" alt="image" src="https://github.com/selimkayali/flask-ml-service/assets/37865633/17ce91c4-41ae-4b39-bd94-065f6f13db41">
+
+-
+
+<img width="867" alt="image" src="https://github.com/selimkayali/flask-ml-service/assets/37865633/10e02dcc-828a-498a-b238-a6f8d8caa166">
+
+
+## Overview
 In this project, we built a CI/CD chain for a given code base and adapted it to our own custom code. We used GitHub Actions to run linting, testing, and installation steps on a Python code that we cloned from a template.
 
 Then, we connected the GitHub Actions to Azure DevOps Pipelines and switched the code to a sklearn model that can forecast house prices.

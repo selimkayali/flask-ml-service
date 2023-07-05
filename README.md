@@ -23,6 +23,13 @@ In this project, we built a CI/CD chain for a given code base and adapted it to 
 
 Then, we connected the GitHub Actions to Azure DevOps Pipelines and switched the code to a sklearn model that can forecast house prices.
 
+# For future:
+We can add more trained models with different variations,
+Add more data samples,
+Treat missing outlier values,
+Feature engineering,
+Hyperparameter tuning.
+
 -
 
 Video link:
